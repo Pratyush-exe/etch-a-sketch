@@ -1,0 +1,18 @@
+#grid-container {
+    width: 512px;
+    height: 512px;
+    display: grid;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(200, 200, 200);
+}
+
+#outter-border {
+    padding: 24px;
+    width: 546px;
+    height: 546px;
+    background-color: red;
+    border: 3px soild darkred;
+    border-radius: 30px;
+}
